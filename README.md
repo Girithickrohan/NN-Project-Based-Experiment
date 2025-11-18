@@ -1,4 +1,4 @@
-#Project Based Experiments
+## Project Based Experiments
 ## Objective :
  Build a Multilayer Perceptron (MLP) to classify handwritten digits in python
 ## Steps to follow:
@@ -134,10 +134,10 @@ plt.show()
 
 ## Output:
 
-![img]()
+![img](https://github.com/Girithickrohan/NN-Project-Based-Experiment/blob/main/o1.png)
 
-![img]()
+![img](https://github.com/Girithickrohan/NN-Project-Based-Experiment/blob/main/o2.png)
 
-![img]()
+![img](https://github.com/Girithickrohan/NN-Project-Based-Experiment/blob/main/o3.png)
 
-![img]()
+![img](https://github.com/Girithickrohan/NN-Project-Based-Experiment/blob/main/o4.png)
